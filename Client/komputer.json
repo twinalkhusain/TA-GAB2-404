@@ -1,0 +1,109 @@
+{
+    "menu": [
+        {
+            "kategori": "monitor",
+            "nama": "LG",
+            "deskripsi": "24'' Class Full HD IPS LED Monitor with AMD FreeSync.",
+            "harga": 2150000,
+            "gambar": "Monitor.PNG"
+        },
+        {
+            "kategori": "monitor",
+            "nama": "LG",
+            "deskripsi": "IPS235P-BN - 23'' LG IPS LED",
+            "harga": 2300000,
+            "gambar": "Monitor2.PNG"
+        },
+        {
+            "kategori": "monitor",
+            "nama": "MSI",
+            "deskripsi": "MSI Optix G241VC Monitor 24 Inch Full HD.",
+            "harga": 2400000,
+            "gambar": "monitor3.PNG"
+        },
+        {
+            "kategori": "monitor",
+            "nama": "Philips",
+            "deskripsi": "Monitor LCD Ultra HD 4K 278E1A/70",
+            "harga": 4600000,
+            "gambar": "monitor4.PNG"
+        },
+        {
+            "kategori": "monitor",
+            "nama": "Lenovo",
+            "deskripsi": "LENOVO D24-20 23.8 inch LED BACKLIT.",
+            "harga": 1500000,
+            "gambar": "monitor5.PNG"
+        },
+        {
+            "kategori": "VGA",
+            "nama": "Colorful",
+            "deskripsi": "GeForce GTX 1660 Super NB 6G VGA.",
+            "harga": 16000000,
+            "gambar": "vga.PNG"
+        },
+        {
+            "kategori": "VGA",
+            "nama": "Colorful",
+            "deskripsi": "Geforce GTX 1050 Ti NB [4 GB]",
+            "harga": 2200000,
+            "gambar": "vga2.PNG"
+        },
+        {
+            "kategori": "VGA",
+            "nama": "MSI",
+            "deskripsi": "Nvidia Geforce GTX 960 Gaming 2G - 2 GB GDDR5.",
+            "harga": 1300000,
+            "gambar": "vga3.PNG"
+        },
+        {
+            "kategori": "VGA",
+            "nama": "Gigabyte",
+            "deskripsi": "GIGABYTE RTX 3090 GAMING OC 24GB DDR6X 384BIT.",
+            "harga": 26500000,
+            "gambar": "vga4.PNG"
+        },
+        {
+            "kategori": "VGA",
+            "nama": "MSI",
+            "deskripsi": "MSI GeForce RTX 3080 SUPRIM X 10G 10GB GDDR6X ",
+            "harga": 12000000,
+            "gambar": "vga5.PNG"
+        },
+        {
+            "kategori": "processor",
+            "nama": "Intel",
+            "deskripsi": "Processor Intel® Core™ i7 3770 Ivy Bridge",
+            "harga": 1000000,
+            "gambar": "processor.PNG"
+        },
+        {
+            "kategori": "processor",
+            "nama": "Intel",
+            "deskripsi": "Prosesor Intel Core i5-4430",
+            "harga": 500000,
+            "gambar": "processor2.PNG"
+        },
+        {
+            "kategori": "processor",
+            "nama": "Intel",
+            "deskripsi": "Processor Intel Core i9-7900X X-series",
+            "harga": 15500000,
+            "gambar": "processor3.PNG"
+        },
+        {
+            "kategori": "processor",
+            "nama": "AMD",
+            "deskripsi": "Processor AMD Ryzen 5 3500x",
+            "harga": 2900000,
+            "gambar": "processor4.PNG"
+        },
+        {
+            "kategori": "processor",
+            "nama": "AMD",
+            "deskripsi": "Processor AMD Ryzen 7 3700X AM4",
+            "harga": 7000000,
+            "gambar": "processor5.PNG"
+        }
+    ]
+}
