@@ -1,6 +1,6 @@
-# Web Aplikasi Inventory Gudang
+# Web Data Barang Toko Kembar
 
-Web aplikasi inventory gudang ini di buat memakai framework codeigniter yang sangat sederhana
+Web data barang toko kembar ini di buat memakai framework codeigniter
 
 # User database
 <strong>Admin</strong><br>
